@@ -7,4 +7,5 @@ INCLUDED ARDUINO PROGRAMS
 2. SorterHarwareTest - Code used to individually test and operate every subsystem and component of the sorting machine.
 
 Note: In order for easier readability programs are divided into different tabs. 
-      In order to compile correctly by the Arduino IDE compiler, tab files must be named alphabetically according to necessary order of compilation
+      In order to compile correctly by the Arduino IDE compiler, tab files must be named alphabetically according to necessary 
+      order of compilation
