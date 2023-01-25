@@ -6,6 +6,6 @@ INCLUDED ARDUINO PROGRAMS
 1. SorterFinalCode - Code used to fully operate the sorting machine to the competition standards.
 2. SorterHarwareTest - Code used to individually test and operate every subsystem and component of the sorting machine.
 
-Note: In order for easier readability programs are divided into different tabs. 
-      In order to compile correctly by the Arduino IDE compiler, tab files must be named alphabetically according to necessary 
+Note: In order for easier readability programs are divided into different tabs. This can mess with the Arduino compiler
+      To compile correctly by the Arduino IDE compiler, tab files must be named alphabetically according to necessary 
       order of compilation
